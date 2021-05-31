@@ -1,3 +1,3 @@
 # TFT
 
-A joint t-f and time domain method. 
+A joint time-frequency and time domain method. 
